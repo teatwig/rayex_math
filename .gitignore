@@ -1,0 +1,14 @@
+/_build/
+/cover/
+/deps/
+/doc/
+/.fetch
+erl_crash.dump
+*.ez
+rayex_math-*.tar
+/tmp/
+/priv/
+
+/c_src/rayex_math/_generated/
+.ccls-cache/
+/.direnv
